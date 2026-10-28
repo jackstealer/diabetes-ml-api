@@ -1,3 +1,12 @@
+import sys
+from pathlib import Path
+
+# Add the project root folder to Python's path
+sys.path.insert(
+    0,
+    str(Path(__file__).resolve().parents[1])
+)
+
 from fastapi.testclient import TestClient
 from main import app
 

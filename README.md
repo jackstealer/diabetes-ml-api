@@ -105,7 +105,7 @@ A local `.venv/` directory may also exist on your computer. It contains the loca
 
 This project uses the **Pima Indians Diabetes Database** available on Kaggle:
 
-[Kaggle dataset page](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+[Kaggle dataset page](https://www.kaggle.com/code/mragpavank/pima-indians-diabetes-database)
 
 The CSV includes eight input features and a target column named `Outcome`.
 
